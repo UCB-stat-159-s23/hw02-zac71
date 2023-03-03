@@ -1,1 +1,1 @@
-from ligotools import readligo as rl
+import readligo as rl
