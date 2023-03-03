@@ -10,4 +10,4 @@ The project was created based on the Notebook called "LIGO Gravitational Wave De
 Github Link for the source:https://github.com/losc-tutorial/LOSC_Event_tutorial
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-zac71.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-zac71/HEAD?labpath=LOSC_Event_tutorial.ipynb)
