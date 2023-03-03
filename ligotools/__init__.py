@@ -1,2 +1,1 @@
-import readligo
-
+import readligo as rl
